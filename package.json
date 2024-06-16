@@ -1,7 +1,7 @@
 {
-    "homepage": "https://janmesh1814.github.io//React-weatherapp",
+    "homepage": "https://janmesh1814.github.io/react-wa",
     "name": "materialui",
-    "private": true,
+    "private": false,
     "version": "0.0.0",
     "type": "module",
     "scripts": {
