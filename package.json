@@ -1,7 +1,7 @@
 {
-    "homepage": "https://janmesh1814.github.io/react-wa",
+    "homepage": "https://janmesh1814.github.io/wa",
     "name": "materialui",
-    "private": false,
+    "private": true,
     "version": "0.0.0",
     "type": "module",
     "scripts": {
